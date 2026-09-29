@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-alpaca-sharegpt-format-converter-skill"
+version = "1.0.0"
+description = "Bidirectional dataset format converter and schema validator between Alpaca and ShareGPT formats"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
