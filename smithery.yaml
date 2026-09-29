@@ -1,0 +1,6 @@
+name: genpark-alpaca-sharegpt-format-converter-skill
+version: 1.0.0
+description: Bidirectional dataset format converter and schema validator between Alpaca and ShareGPT formats
+command: python
+args:
+  - mcp_server.py
